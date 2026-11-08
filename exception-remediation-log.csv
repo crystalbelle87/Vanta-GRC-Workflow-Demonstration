@@ -1,5 +1,5 @@
 Exception ID,Control ID,Exception Description,Risk Level,Remediation Action,Owner,Target Date,Status
-EX-001,AC-01,MFA enforcement requires verification,Medium,Review MFA configuration and document implementation evidence,GRC Analyst,2026-11-15,Open
+EX-001,AC-01,MFA enforcement verification completed,Medium,Review MFA configuration and document implementation evidence,GRC Analyst,2026-11-15,Closed — Remediation Verified (Simulated)
 EX-002,AC-02,User access review requires completion,Medium,Review user access records and document approval,GRC Analyst,2026-11-15,Open
 EX-003,CC-01,Change approval documentation requires verification,Low,Review change records and document approval evidence,GRC Analyst,2026-11-20,Open
 EX-004,VM-01,Vulnerability remediation tracking requires verification,High,Review vulnerability records and document remediation status,GRC Analyst,2026-11-12,Open
