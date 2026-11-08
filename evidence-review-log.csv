@@ -1,0 +1,6 @@
+Evidence ID,Control ID,Evidence Description,Collection Date,Review Status,Reviewer Notes
+E-001,AC-01,MFA configuration review,2026-11-08,Reviewed,Simulated evidence record
+E-002,AC-02,User access review,2026-11-08,Reviewed,Simulated evidence record
+E-003,CC-01,Change management review,2026-11-08,Reviewed,Simulated evidence record
+E-004,VM-01,Vulnerability management review,2026-11-08,Reviewed,Simulated evidence record
+E-005,EV-01,Event monitoring review,2026-11-08,Reviewed,Simulated evidence record
