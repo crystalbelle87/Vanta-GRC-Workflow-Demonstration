@@ -1,0 +1,6 @@
+Test ID,Control ID,Control Area,Testing Procedure,Expected Result,Actual Result,Test Outcome,Testing Date,Notes
+T-001,AC-01,Access Control,Review MFA configuration, MFA enabled for all applicable accounts,Configuration requires verification,Fail,2026-11-08,Simulated test failure requiring follow-up
+T-002,AC-02,Access Control,Review user access records,Access reviews completed and documented,Access review documentation requires verification,Fail,2026-11-08,Simulated test failure requiring follow-up
+T-003,CC-01,Change Management,Review change approval records,Changes approved before implementation,Approval records require verification,Fail,2026-11-08,Simulated test failure requiring follow-up
+T-004,VM-01,Vulnerability Management,Review vulnerability remediation records,High-risk vulnerabilities tracked and remediated,Remediation evidence requires verification,Fail,2026-11-08,Simulated test failure requiring follow-up
+T-005,EV-01,Event Monitoring,Review security event monitoring records,Security events monitored and documented,Monitoring evidence requires verification,Fail,2026-11-08,Simulated test failure requiring follow-up
