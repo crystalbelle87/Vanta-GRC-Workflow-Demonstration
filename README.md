@@ -1,6 +1,6 @@
 # Vanta GRC Workflow Demonstration
 
-**Project Status:** In Progress
+**Project Status:** Completed — Portfolio Demonstration
 
 **Project Type:** Simulated GRC Workflow / Portfolio Demonstration
 
@@ -62,6 +62,7 @@ The workflow connects control testing, evidence review, exception tracking, reme
 | evidence-review-log.csv | Tracks evidence review activities |
 | exception-remediation-log.csv | Tracks exceptions and corrective actions |
 | control-monitoring-log.csv | Documents ongoing monitoring activities |
+| compliance-monitoring-workflow.md | Explains the simulated compliance monitoring and remediation workflow |
 
 ### Project Limitations
 
