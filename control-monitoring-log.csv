@@ -1,5 +1,5 @@
 Control ID,Control Area,Control Requirement,Monitoring Result,Finding ID,Responsible Role,Remediation Status,Last Review,Notes
-AC-01,Access Control,MFA enabled for all user accounts,Failed,F-001,IT Administrator,Remediation Verified (Simulated),2026-11-08,Missing MFA identified and corrective action documented
+AC-01,Access Control,MFA enabled for all user accounts,Passed (Simulated),F-001,IT Administrator,Remediation Verified (Simulated),2026-11-08,Missing MFA identified and corrective action documented
 AC-02,Access Control,User access reviewed periodically,Passed,,GRC Analyst,No Action Required,2026-11-08,Simulated access review completed
 CC-01,Change Management,Changes reviewed and approved before implementation,Passed,,IT Manager,No Action Required,2026-11-08,Simulated change approval evidence reviewed
 VM-01,Vulnerability Management,Vulnerabilities tracked and remediated,Needs Review,F-002,IT Administrator,Open,2026-11-08,Simulated vulnerability finding requires investigation
