@@ -3,4 +3,4 @@ AC-01,Access Control,MFA enabled for all user accounts,Failed,F-001,IT Administr
 AC-02,Access Control,User access reviewed periodically,Passed,,GRC Analyst,No Action Required,2026-11-08,Simulated access review completed
 CC-01,Change Management,Changes reviewed and approved before implementation,Passed,,IT Manager,No Action Required,2026-11-08,Simulated change approval evidence reviewed
 VM-01,Vulnerability Management,Vulnerabilities tracked and remediated,Needs Review,F-002,IT Administrator,Open,2026-11-08,Simulated vulnerability finding requires investigation
-EV-01,Evidence Management,Compliance evidence is documented and retained,Passed,,GRC Analyst,No Action Required,2026-11-08,Simulated evidence records reviewed
+EV-01,Event Monitoring,Compliance evidence is documented and retained,Passed,,GRC Analyst,No Action Required,2026-11-08,Simulated evidence records reviewed
