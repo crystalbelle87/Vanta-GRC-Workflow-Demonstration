@@ -58,7 +58,7 @@ The GRC analyst reviews the available evidence to determine whether the finding 
 
 **Priority:** High
 
-**Status:** Open
+**Initial Status at Assignment:** Open
 
 ## 6. Remediation Verification
 
